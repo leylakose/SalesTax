@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-01-22T02:28:51</date>
+  <millis>1421886531442</millis>
+  <sequence>0</sequence>
+  <logger>TaxLogger</logger>
+  <level>FINER</level>
+  <class>SalesTax.SalesTax.TaxClient</class>
+  <method>main method</method>
+  <thread>1</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2015-01-22T02:28:51</date>
+  <millis>1421886531452</millis>
+  <sequence>1</sequence>
+  <logger>TaxLogger</logger>
+  <level>FINER</level>
+  <class>SalesTax.SalesTax.TaxClient</class>
+  <method>manualEntry - input option</method>
+  <thread>1</thread>
+  <message>ENTRY</message>
+</record>
